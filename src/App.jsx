@@ -7,7 +7,8 @@ export default function App() {
   setParams({
     nome: "Robson",
     email: "robsonas@gmail.com",
-    cpf: "95971114115"
+    cpf: "95971114115",
+    date: "2021-09-02"
   });
 
   console.log(params);
