@@ -5,9 +5,9 @@ export default function App() {
   const [params, setParams] = useQueryStrings();
 
   setParams({
-    nome: "Robson",
-    email: "robsonas@gmail.com",
-    cpf: "95971114115",
+    nome: "João Silva",
+    email: "joao@gmail.com",
+    cpf: "11111111112",
     date: "2021-09-02"
   });
 
